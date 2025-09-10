@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Eccel
 
-<!--
-**GabrielEccel/GabrielEccel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.  
+Tenho experiência com **desenvolvimento web e mobile**, utilizando tecnologias modernas e boas práticas de programação.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Habilidades
+
+- ⚛️ **Front-end:** React, TypeScript, JavaScript, HTML5, CSS3, Tailwind  
+- 🐍 **Back-end:** Python (Django, FastAPI)  
+- 🗄️ **Banco de Dados:** SQLite, PostgreSQL, MySQL  
+- 🔧 **Ferramentas:** Git, GitHub, VS Code  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielEccel&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEccel&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielEccel&theme=radical)
+
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrieleccel)  
+- 📂 [Portfólio / Projetos](https://github.com/GabrielEccel)  
+
+---
+
+## ✨ Sobre mim
+
+🔹 Gosto de desenvolver soluções que façam diferença no dia a dia das pessoas.  
+🔹 Estou sempre aprendendo algo novo e compartilhando conhecimento.  
+🔹 Meu foco atual é o **desenvolvimento full stack** e **aplicações modernas**.  
+
+---
+
+⭐️ Feito com dedicação por **Gabriel Eccel**  
