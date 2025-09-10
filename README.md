@@ -1,44 +1,64 @@
-# 👋 Olá, eu sou o Gabriel Eccel
+<h1 align="center">👋 Olá, eu sou o Gabriel Eccel</h1>
 
-💻 Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.  
-Tenho experiência com **desenvolvimento web e mobile**, utilizando tecnologias modernas e boas práticas de programação.  
+<p align="center">
+  💻 Desenvolvedor apaixonado por tecnologia | 🚀 Focado em Full Stack | 📚 Sempre aprendendo
+</p>
 
 ---
 
-## 🚀 Tecnologias & Habilidades
+## 🚀 Tecnologias & Ferramentas
 
-- ⚛️ **Front-end:** React, TypeScript, JavaScript, HTML5, CSS3, Tailwind  
-- 🐍 **Back-end:** Python (Django, FastAPI)  
-- 🗄️ **Banco de Dados:** SQLite, PostgreSQL, MySQL  
-- 🔧 **Ferramentas:** Git, GitHub, VS Code  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEccel&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEccel&layout=compact&theme=radical" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielEccel&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEccel&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielEccel&theme=radical)
-
-</div>
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=GabrielEccel&theme=radical" />
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrieleccel)  
-- 📂 [Portfólio / Projetos](https://github.com/GabrielEccel)  
+<p align="center">
+  <a href="https://github.com/GabrielEccel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrieleccel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Sobre mim
 
-🔹 Gosto de desenvolver soluções que façam diferença no dia a dia das pessoas.  
-🔹 Estou sempre aprendendo algo novo e compartilhando conhecimento.  
-🔹 Meu foco atual é o **desenvolvimento full stack** e **aplicações modernas**.  
+🔹 Apaixonado por tecnologia e resolução de problemas  
+🔹 Experiência em **React, TypeScript, Python e desenvolvimento web**  
+🔹 Buscando sempre criar soluções eficientes e inovadoras  
+🔹 Focado em evoluir como **desenvolvedor full stack**  
 
 ---
 
-⭐️ Feito com dedicação por **Gabriel Eccel**  
+<p align="center">⭐️ Feito com dedicação por <b>Gabriel Eccel</b></p>
