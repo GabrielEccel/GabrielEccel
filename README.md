@@ -42,10 +42,10 @@
 ## 🌐 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://github.com/gabriel-eccel-52304a313" target="_blank">
+  <a href="https://github.com/GabrielEccel" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabrieleccel" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-eccel-52304a313" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
