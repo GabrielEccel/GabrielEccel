@@ -55,7 +55,7 @@
 ## ✨ Sobre mim
 
 🔹 Apaixonado por tecnologia e resolução de problemas  
-🔹 Experiência em **React, TypeScript, Python e desenvolvimento web**  
+🔹 Experiência em **React, TypeScript, Python e desenvolvimento mobile**  
 🔹 Buscando sempre criar soluções eficientes e inovadoras  
 🔹 Focado em evoluir como **desenvolvedor full stack**  
 
