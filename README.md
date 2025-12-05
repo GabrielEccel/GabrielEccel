@@ -28,12 +28,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEccel&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEccel&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEccel&show_icons=true&count_private=true&theme=radical&hide_border=true&locale=pt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEccel&layout=donut&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=GabrielEccel&theme=radical" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=GabrielEccel&theme=radical&hide_border=true" />
 </p>
 
 ---
